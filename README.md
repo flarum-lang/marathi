@@ -19,7 +19,7 @@ This language pack contains Marathi translations for Flarum (compatible with `1.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/marathi:dev-master
+composer require "flarum-lang/marathi:@dev"
 ```
 
 Then enable extension in admin panel of your Flarum.
